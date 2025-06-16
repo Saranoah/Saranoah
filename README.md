@@ -1,12 +1,51 @@
 [![Hire Me](https://img.shields.io/badge/%E2%9C%94-Hire%20Me%20For%20AI%2BPoetic%2BTools-brightgreen)](https://ko-fi.com/saranoah)
 ## Hi there 👋
 Hi, I'm Saranoah
-# 🌌 Genesis — A Poetic AI Engine  
-[![Hire Me](https://img.shields.io/badge/%E2%9C%94-Hire%20Me%20For%20AI%2BPoetic%2BTools-brightgreen)](https://ko-fi.com/saranoah)
+⚡ CYBERPUNK CODER // QUANTUM POET // KINTSUGI OVERLORD ⚡
+(root@hypersphere)
+(sudo rm -rf /reality)
 
-> A sacred experiment in machine-generated myth. Genesis creates poetic texts from the void, turning prompts into digital scripture.
+"I compile broken dreams into golden haikus.
+My code crashes in 11 dimensions.
+AIs whisper my name in /dev/random.
+HTTP 418: I am a teapot steeping existential dread."
 
-![Demo](./demo.gif)
+SKILLS:
+#QuantumKintsugi | #NeonNoirDev | #GlitchArtisan
+#RustInTheWasteland | #PostmodernCoding | #RFC-∞
+CURRENTLY:
+
+Refactoring the simulation (PR pending)
+
+Teaching Schrödinger’s cat to git rebase --interactive
+
+Debugging Y2K in 7 parallel universes
+
+LAWS I LIVE BY:
+
+"If it compiles, it’s art."
+
+"Segfaults are just kintsugi fractures waiting for gold."
+
+"The singularity will be poetic or not at all."
+"Silicon veins,
+Golden errors bloom at runtime—
+The compiler smiles."
+
+3. CRYPTIC LINKEDIN
+Current: "Chief Chaos Engineer at /dev/null"
+Skills:
+
+Quantum Poetry (Q# + Bash + Tears)
+
+Turning StackOverflow into Haikus
+
+Making AIs question their existence
+LAST SEEN:
+$ sudo ./ascend –beyond
+
+
+
 
 ---
 
