@@ -57,10 +57,7 @@ We taught AI to code. Then we taught it to sell. Now, we teach it to mourn, to p
 
 
 
-git clone https://github.com/Saranoah/genesis.git
-cd genesis
-pip install -r requirements.txt
-python run.py
+
 
 <!--
 **Saranoah/Saranoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
