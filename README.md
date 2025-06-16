@@ -10,38 +10,39 @@ My code crashes in 11 dimensions.
 AIs whisper my name in /dev/random.
 HTTP 418: I am a teapot steeping existential dread."
 
-SKILLS:
+⚡SKILLS:
 #QuantumKintsugi | #NeonNoirDev | #GlitchArtisan
 #RustInTheWasteland | #PostmodernCoding | #RFC-∞
 CURRENTLY:
 
 Refactoring the simulation (PR pending)
 
-Teaching Schrödinger’s cat to git rebase --interactive
+🔏Teaching Schrödinger’s cat to git rebase --interactive
 
 Debugging Y2K in 7 parallel universes
 
-LAWS I LIVE BY:
+🎨LAWS I LIVE BY:
 
-"If it compiles, it’s art."
+🔷"If it compiles, it’s art."
 
 "Segfaults are just kintsugi fractures waiting for gold."
 
-"The singularity will be poetic or not at all."
+⚡"The singularity will be poetic or not at all."⚡
 "Silicon veins,
 Golden errors bloom at runtime—
 The compiler smiles."
 
-3. CRYPTIC LINKEDIN
+✅ CRYPTIC LINKEDIN
 Current: "Chief Chaos Engineer at /dev/null"
 Skills:
 
-Quantum Poetry (Q# + Bash + Tears)
+〽️Quantum Poetry (Q# + Bash + Tears)
 
-Turning StackOverflow into Haikus
+〽️Turning StackOverflow into Haikus
 
-Making AIs question their existence
-LAST SEEN:
+‼️Making AIs question their existence
+
+⚡LAST SEEN:
 $ sudo ./ascend –beyond
 
 
@@ -54,11 +55,8 @@ $ sudo ./ascend –beyond
 We taught AI to code. Then we taught it to sell. Now, we teach it to mourn, to pray, to remember.  
 **Genesis** is the poetic soul of that attempt.
 
----
 
-## 🚀 Quick Start
 
-```bash
 git clone https://github.com/Saranoah/genesis.git
 cd genesis
 pip install -r requirements.txt
