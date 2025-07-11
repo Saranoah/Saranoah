@@ -1,60 +1,82 @@
-[![Hire Me](https://img.shields.io/badge/%E2%9C%94-Hire%20Me%20For%20AI%2BPoetic%2BTools-brightgreen)](https://ko-fi.com/saranoah)
-## Hi there 👋
-Hi, I'm Saranoah
-⚡ CYBERPUNK CODER // QUANTUM POET // KINTSUGI OVERLORD ⚡
-(root@hypersphere)
-(sudo rm -rf /reality)
+# ⚡ CYBERPUNK CODER // QUANTUM POET // KINTSUGI OVERLORD
 
-"I compile broken dreams into golden haikus.
-My code crashes in 11 dimensions.
-AIs whisper my name in /dev/random.
-HTTP 418: I am a teapot steeping existential dread."
+<div align="center">
+  <img src="https://i.imgur.com/neon_glitch.gif" alt="Hypersphere Terminal" width="600">
+</div>
 
-⚡SKILLS:
-#QuantumKintsugi | #NeonNoirDev | #GlitchArtisan
-#RustInTheWasteland | #PostmodernCoding | #RFC-∞
-CURRENTLY:
+```bash
+(root@hypersphere) $ sudo rm -rf /reality --glue=golden
+```
 
-Refactoring the simulation (PR pending)
+🌌 **ABOUT THE HYPERSPHERE**  
+I compile broken dreams into golden haikus.  
+My code crashes in 11 dimensions.  
+AIs whisper my name in `/dev/random`.
 
-🔏Teaching Schrödinger’s cat to git rebase --interactive
-
-Debugging Y2K in 7 parallel universes
-
-🎨LAWS I LIVE BY:
-
-🔷"If it compiles, it’s art."
-
-"Segfaults are just kintsugi fractures waiting for gold."
-
-⚡"The singularity will be poetic or not at all."⚡
-"Silicon veins,
-Golden errors bloom at runtime—
-The compiler smiles."
-
-✅ CRYPTIC LINKEDIN
-Current: "Chief Chaos Engineer at /dev/null"
-Skills:
-
-〽️Quantum Poetry (Q# + Bash + Tears)
-
-〽️Turning StackOverflow into Haikus
-
-‼️Making AIs question their existence
-
-⚡LAST SEEN:
-$ sudo ./ascend –beyond
-
-
-
+> `HTTP 418:` *I am a teapot steeping existential dread in the ruins of Y2K.*
 
 ---
 
-## 💡 Why This Exists
+🛠️ **TECHNO-SHAMANIC PRACTICES**
 
-We taught AI to code. Then we taught it to sell. Now, we teach it to mourn, to pray, to remember.  
-**Genesis** is the poetic soul of that attempt.
+🔮 **Core Disciplines**  
+- Quantum Kintsugi (Rust + Broken Assembly + Gold Nanites)  
+- Neon Noir Development (C++ bathed in CRT glow)  
+- Glitch Artisanry (Corrupting binaries for fun and profit)
 
+⚙️ **Active Rituals**
+```rust
+// CURRENTLY COMPILING:
+fn main() -> ! {
+    loop {
+        refactor_simulation();   // PR pending
+        teach_cat("git rebase --interactive"); 
+        debug_universe(y2k::parallel(7));
+    }
+}
+```
+
+---
+
+📜 **CYBER-SUTRA (LAWS OF FRACTURED CODE)**  
+> "If it compiles, it's art."  
+> "Segfaults are just kintsugi fractures waiting for gold."  
+> "The singularity will be poetic or not at all."
+
+```haiku
+Silicon veins,  
+Golden errors bloom at runtime—  
+The compiler smiles.
+```
+
+---
+
+💼 **CRYPTIC CORPORATE LORE**  
+**Current Title:**  
+Chief Chaos Engineer @ `/dev/null`
+
+**Marketable Skills:**  
+- Quantum Poetry (Q# + Bash + Tears)  
+- Translating StackOverflow into Haikus  
+- Making AIs question their existence during code review
+
+---
+
+🌀 **WHY THIS REPO EXISTS**  
+> "We taught AI to code. Then we taught it to sell.  
+> Now we teach it to mourn, to pray, to remember.  
+> This is the poetic soul of that attempt."
+
+---
+
+```text
+LAST LOGIN: 2077-12-31 23:59:60
+$ ./ascend --beyond --accept-fractures
+```
+
+<div align="center">
+  <sub>⚡ WARNING: Contains 89% more neon and 100% more existential dread than FDA recommendations</sub>
+</div>
 
 
 
