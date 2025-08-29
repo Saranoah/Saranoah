@@ -52,3 +52,25 @@ This isn't just art—it's a rigorous alternative path toward **generalization t
 Silicon veins,
 Golden errors bloom at runtime—
 The compiler smiles.
+
+📫 Let's Build the Next Paradigm
+I am seeking collaboration with research labs and engineers who are serious about:
+
+AI Safety through resilience, not just alignment.
+
+Open-Endedness and lifelong learning in AI systems.
+
+Novel Training Paradigms inspired by neuroscience, philosophy, and art.
+
+How to reach me:
+
+Email: Israaali2019@yahoocom
+
+LinkedIn: https://www.linkedin.com/in/israaalipharmacist/
+
+Twitter/X:https://x.com/IsraaAli2077
+
+<div align="center">
+$ git commit -m "We are the engineers of meaning. Let's compile carefully."
+
+</div> ```
