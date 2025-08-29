@@ -1,4 +1,4 @@
-# Saranoah | AI Research Engineer ⚡
+# Saranoah | AGI Research Engineer ⚡
 
 **Building resilient, self-repairing AGI systems through computational philosophy & ritualized design.**
 
