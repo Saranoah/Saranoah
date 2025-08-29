@@ -1,6 +1,6 @@
 # Saranoah | AI Research Engineer ⚡
 
-**Building resilient, self-repairing AI systems through computational philosophy & ritualized design.**
+**Building resilient, self-repairing AGI systems through computational philosophy & ritualized design.**
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 I operate at the intersection of **machine learning robustness**, **AI safety**, and **philosophically-informed architecture**. My work explores a core hypothesis:
 
-> **Can we engineer AI that treats errors not as failures, but as sites of learning and beauty—akin to the Japanese art of Kintsugi?**
+> **Can we engineer AGI that treats errors not as failures, but as sites of learning and beauty—akin to the Japanese art of Kintsugi?**
 
 This isn't just metaphor; it's a framework for building more adaptive, general, and introspective systems.
 
