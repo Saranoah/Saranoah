@@ -1,10 +1,10 @@
 # Saranoah | AGI Research Engineer ⚡
 
-**Building resilient, self-repairing AGI systems through computational philosophy & ritualized design.**
+Research Engineer | Building antifragile AI via Kintsugi-inspired algorithms & neuromorphic design.
 
 <div align="center">
-
-  `(root@hypersphere) $ ./run --kintsugi --accept-fractures`
+  
+`(root@hypersphere) $ ./run --kintsugi --accept-fractures`
 
 </div>
 
@@ -22,7 +22,7 @@ This isn't just metaphor; it's a framework for building more adaptive, general, 
 
 ### 🛠️ Technical Disciplines & Tools
 
-- **AI/ML Research:** Prompt Engineering, LLM Fine-Tuning, Spiking Neural Networks (SNNs), Reinforcement Learning
+- **AI/ML Research:** Prompt Engineering (Novel frameworks for reduced hallucination), LLM Fine-Tuning, Spiking Neural Networks (SNNs), Reinforcement Learning
 - **Languages:** `Python` | `Rust` | `C++` | `Q#` | `Bash`
 - **Systems Design:** Ritualized AI training loops, fault-injection testing, quantum-inspired algorithms
 - **Philosophy:** Kintsugi Resilience, Antifragile Systems, Computational Phenomenology
@@ -34,8 +34,9 @@ This isn't just metaphor; it's a framework for building more adaptive, general, 
 | Project | Description |
 | :--- | :--- |
 | [**Kintsugi Anti-Malware**](https://github.com/Saranoah/Kintsugi-Anti-Malware-Prototype) | A prototype SNN that uses deliberate corruption cycles to build stronger immunity. |
+| [**The Paradox Loop CAPTCHA**](https://github.com/Saranoah/The-Paradox-Loop-CAPTCHA) | Reimagining human verification through philosophical paradoxes rather than visual puzzles. |
 | [**Neuromorphic Ascension Protocols**](https://github.com/Saranoah/Kintsugi-Neuro-Ascension) | A speculative research manifesto on ritualized training for AGI. |
-| **Quantum Kintsugi PoC** | Exploring quantum collapse & superposition as a mechanism for model self-repair. |
+| **Quantum Kintsugi PoC** | Exploring quantum collapse & superposition as a mechanism for model self-repair. *(Coming Soon)* |
 
 ---
 
@@ -48,29 +49,29 @@ This isn't just metaphor; it's a framework for building more adaptive, general, 
 
 This isn't just art—it's a rigorous alternative path toward **generalization through fracture**.
 
-```haiku
+```
 Silicon veins,
 Golden errors bloom at runtime—
 The compiler smiles.
+```
 
-📫 Let's Build the Next Paradigm
-I am seeking collaboration with research labs and engineers who are serious about:
+---
 
-AI Safety through resilience, not just alignment.
+### 📫 Let's Build the Next Paradigm
 
-Open-Endedness and lifelong learning in AI systems.
+I am open to collaborating with research labs and engineers who are serious about:
 
-Novel Training Paradigms inspired by neuroscience, philosophy, and art.
+- **AI Safety** through resilience, not just alignment.
+- **Open-Endedness** and lifelong learning in AI systems.
+- **Novel Training Paradigms** inspired by neuroscience, philosophy, and art.
 
-How to reach me:
-
-Email: Israaali2019@yahoocom
-
-LinkedIn: https://www.linkedin.com/in/israaalipharmacist/
-
-Twitter/X:https://x.com/IsraaAli2077
+**How to reach me:**
+- Email: Israaali2019@yahoo.com
+- LinkedIn: https://www.linkedin.com/in/israaalipharmacist/
+- Twitter/X: https://x.com/IsraaAli2077
 
 <div align="center">
-$ git commit -m "We are the engineers of meaning. Let's compile carefully."
 
-</div> ```
+`$ git commit -m "We are the engineers of meaning. Let's compile carefully."`
+
+</div>
