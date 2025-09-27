@@ -1,4 +1,4 @@
-# Saranoah | AGI Research Engineer ⚡
+# AGI Research Engineer ⚡
 
 Research Engineer | Building antifragile AI via Kintsugi-inspired algorithms & neuromorphic design.
 
